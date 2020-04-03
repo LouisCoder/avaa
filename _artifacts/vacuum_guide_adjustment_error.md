@@ -11,7 +11,7 @@ During playback of 2” Quadruplex tape, a pneumatic guide is used to adjust the
 
 ## Can it be fixed?
 
-A manual adjustment to the vacuum guide can be made to help approximate the position needed for proper playback . However, a digital TBC will be able to remove this error entirely. The analog AMTEC processor was also used to lessen this error, but it did not have as much correction range. Late model Quadruplex machines had an automatic guide servo that removed the error, as well.
+A manual adjustment to the vacuum guide can be made to help approximate the position needed for proper playback. However, a digital TBC will be able to remove this error entirely. The analog AMTEC processor was also used to lessen this error, but it did not have as much correction range. Late model Quadruplex machines had an automatic guide servo that removed the error, as well.
 
 ## Example(s)
 
